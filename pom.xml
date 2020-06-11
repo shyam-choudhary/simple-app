@@ -20,11 +20,12 @@
 
 	</dependencies>
 	
- <servers>
-          <server>
-          <id>local-nexus</id>
-          <username>admin</username>
-          <password>admin123</password>
-          </server>
-      </servers>
-</project>
+ 
+
+<proxies>
+  <proxy>
+    ...
+    <nonProxyHosts>myserver</nonProxyHosts>
+  </proxy>
+</proxies>
+	</project>

@@ -21,11 +21,4 @@
 	</dependencies>
 	
  
-
-<proxies>
-  <proxy>
-    ...
-    <nonProxyHosts>myserver</nonProxyHosts>
-  </proxy>
-</proxies>
 	</project>

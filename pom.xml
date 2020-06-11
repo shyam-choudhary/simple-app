@@ -19,5 +19,11 @@
 		</dependency>
 
 	</dependencies>
-	
+	<servers>
+        <server>
+            <id>my-internal-nexus-repo</id>
+            <username>admin</username>
+            <password>admin123</password>
+        </server>
+</servers>
 </project>

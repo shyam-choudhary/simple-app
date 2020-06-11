@@ -21,7 +21,7 @@
 	</dependencies>
 	
 	
-distributionManagement>
+<distributionManagement>
 		<repository>
 			<id>local-nexus</id>
 			<layout>default</layout>

@@ -27,5 +27,5 @@
             <name>Internal Snapshot Releases</name>
             <url>http://192.168.21.89:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
-    </distributionManagement
+	</distributionManagement>
 </project>

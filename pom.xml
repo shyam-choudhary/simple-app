@@ -16,15 +16,14 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<distributionManagement>
-		<repository>
-			<name>maven-releases</name>
-			<url>http://192.168.21.89:8081/repository/maven-releases/</url>
-		</repository>
-		<snapshotrepository>
+<distributionManagement>
+	<repository>
+		<name>maven-releases</name>
+		<url>http://192.168.21.89:8081/repository/maven-releases/</url>
+	</repository>
+	<snapshotRepository>
 		<name>maven-snapshots</name>
-        
 		<url> http://192.168.21.89:8081/repository/maven-snapshots/</url>
-    </snapshotrepository>
-	</distributionManagement>
+	</snapshotRepository>
+</distributionManagement>
 </project>

@@ -21,10 +21,10 @@
 			<name>maven-releases</name>
 			<url>http://192.168.21.89:8081/repository/maven-releases/</url>
 		</repository>
-		<snaprepository>
+		<snapshotrepository>
 		<name>maven-snapshots</name>
         
 		<url> http://192.168.21.89:8081/repository/maven-snapshots/</url>
-    </snaprepository>
+    </snapshotrepository>
 	</distributionManagement>
 </project>

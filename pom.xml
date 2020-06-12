@@ -21,7 +21,7 @@
 	</dependencies>
 	
 	
-settings>
+<settings>
       <!-- sets the local maven repository outside of the ~/.m2 folder for easier mounting of secrets and repo -->
       <localRepository>${user.home}/.mvnrepository</localRepository>
       <!-- lets disable the download progress indicator that fills up logs -->
